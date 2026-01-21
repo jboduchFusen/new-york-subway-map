@@ -12,7 +12,7 @@
 - Error handling for API failures
 
 ### Tasks
-- [ ] Set up chatbot interface with message display
-- [ ] Integrate OpenAI API for chat responses
-- [ ] Add API key configuration
-- [ ] Implement message history and auto-scroll
+- [x] Set up chatbot interface with message display
+- [x] Integrate OpenAI API for chat responses
+- [x] Add API key configuration
+- [x] Implement message history and auto-scroll

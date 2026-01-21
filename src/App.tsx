@@ -1,10 +1,10 @@
 
-import { SubwayMap } from './components/SubwayMap';
+import { ChatBot } from './components/ChatBot';
 
 function App() {
   return (
     <div className="min-h-screen bg-background">
-      <SubwayMap />
+      <ChatBot />
     </div>
   );
 }
